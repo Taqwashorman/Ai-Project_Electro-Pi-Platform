@@ -1,5 +1,7 @@
 # Capstone: Airbnb Listing EDA
 
+## Note: This is the final project to complete the Exploratory Data Analysis Course.
+
 ### Project Description:
 
 This project focuses on performing an exploratory data analysis (EDA) of Airbnb listings within a selected city. The goal is to examine various factors such as price, availability, location, and property type to uncover the underlying trends and patterns that influence the demand for Airbnb listings. Through this analysis, we aim to provide a comprehensive overview of the Airbnb market in the city, helping stakeholders to make informed decisions.
